@@ -1,2 +1,3 @@
 # assignment07
-Assignment #7
+
+All the "Try It Out" sections in Chapter 7.
